@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PeduliLindungiByFerry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirmPeduli">PeduliLindungi telah memperbarui syarat penggunaan
+        dan kebijakan privasi</string>
+    <string name="syarat">Syarat Penggunaan dan Kebijakan
+        Privasi merupakan ketentuan yang harus dibaca, dipahami, dan
+        disetujui oleh Pengguna sebelum mengakses atau
+        menggunakan aplikasi PeduliLindungi. Lihat Syarat Penggunaan dan Kebijakab Privasi di sini:</string>
+    <string name="setuju">Dengan menyatakan setuju, Anda menerima segala isi Syarat Penggunaan dan Kebijakan Privasi yang baru.</string>
+    <string name="pilihNomor">Pilih satu cara untuk masuk menggunakan alamat email atau nomor telepon yang terdaftar</string>
+</resources>
