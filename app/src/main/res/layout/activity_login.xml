@@ -35,6 +35,7 @@
             android:layout_marginTop="10dp"
             android:layout_gravity="left"
             android:textSize="24sp"
+            android:textColor="@color/black"
             android:text="Masuk" />
 
         <TextView
@@ -44,6 +45,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginTop="5dp"
+            android:textColor="@color/black"
             android:text="@string/pilihNomor" />
 
         <LinearLayout
@@ -145,6 +147,7 @@
                     android:layout_marginBottom="10dp"
                     android:backgroundTint="@color/grey"
                     android:text="+62"
+                    android:textColor="@color/black"
                     android:textStyle="bold"
                     android:textSize="16sp"/>
 
